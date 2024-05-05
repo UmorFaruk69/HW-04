@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: brown;
+}
+.header h1{
+    text-align: center;
+    color: aliceblue;
+    padding: 20px;
+}
+.hero_section{
+    overflow: hidden;
+    font-size: 22px;
+    color: #fff;
+    text-align: center;
+}
+.hero_left{
+    width: 70%;
+    height: 700px;
+    background-color: rgb(2, 121, 121);
+    float: left;
+}
+.hero_right{
+    width: 30%;
+    height: 700px;
+    background-color: rgb(83, 163, 3);
+    float: right;
+}
+.footer{
+    background-color: rgb(17, 35, 138);
+}
+.footer h1{
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+td, th{
+    padding: 10px;
+    border: 1px solid #fff;
+}
